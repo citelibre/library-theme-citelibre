@@ -1,4 +1,4 @@
-# library-theme-citelibre
+# Library Theme Citelibre
 
 ---------------------
 
