@@ -8,4 +8,4 @@ Ticketing : https://dev.lutece.paris.fr/bugtracker/projects/library-theme-citeli
 
 ---------------------
 
-Last release : 1.0.0
+Last release : 1.1.1
